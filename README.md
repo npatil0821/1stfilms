@@ -1,0 +1,1 @@
+A streaming site similar to Netflix was developed with HTML/CSS, bootstrap, and some JavaScript. Users are able to register and log in and search films based on their titles, their age rating, or the year they were released. Administrators are able to view user account information and add or remove films.
